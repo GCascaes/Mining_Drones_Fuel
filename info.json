@@ -1,0 +1,17 @@
+{
+    "name": "Mining_Drones_Fuel",
+    "version": "0.6.1",
+    "title": "Mining Drones + Fuel",
+    "author": "gcascaes",
+    "contact": "",
+    "homepage": "",
+    "description": "Changes Mining Drones (By Klonan) to require fuel for mining.",
+    "dependencies": [
+        "base >= 0.18.22",
+        "Mining_Drones >= 0.3.21",
+        "?SchallUraniumProcessing",
+        "?NoFluidstoMineUranium",
+        "?KS_Power"
+    ],
+    "factorio_version": "0.18"
+}
